@@ -1,14 +1,14 @@
 # learning SQL
 
-*COMPANY*:CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: SUMAN PRADHAN
 
-*INTERN ID*:CITS0D505
+*INTERN ID*: CITS0D505
 
-*DOMAIN*:SQL
+*DOMAIN*: SQL
 
-*DURATION*:6 WEEKS
+*DURATION*: 6 WEEKS
 
 IN THIS INTERNSHIP I WAS LEARN ABOUT :- Design and implement database schemas: This involves understanding data relationships and creating efficient table structures.
 
