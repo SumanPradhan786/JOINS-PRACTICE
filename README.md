@@ -1,9 +1,15 @@
 # learning SQL
+
 *COMPANY*:CODTECH IT SOLUTIONS
+
 *NAME*: SUMAN PRADHAN
+
 *INTERN ID*:CITS0D505
+
 *DOMAIN*:SQL
+
 *DURATION*:6 WEEKS
+
 IN THIS INTERNSHIP I WAS LEARN ABOUT :- Design and implement database schemas: This involves understanding data relationships and creating efficient table structures.
 
 Write complex SQL queries: You'll master various clauses like SELECT, FROM, WHERE, JOIN (INNER, LEFT, RIGHT, FULL), GROUP BY, HAVING, and ORDER BY to retrieve, filter, and aggregate data effectively.
